@@ -1,9 +1,65 @@
 [
-  {"id":"project-2","title":"Bathroom installation","description":"Bathroom tiling with clean lines and a precise finish.","category":"Bathroom","image":"project-2.jpg"},
-  {"id":"project-3","title":"Wall & floor detail","description":"Marble-effect wall and floor tiling with careful alignment.","category":"Bathroom","image":"project-3.jpg"},
-  {"id":"project-4","title":"Wet room tiling","description":"Clean wet-room finish with accurate cuts and levels.","category":"Wet Room","image":"project-4.jpg"},
-  {"id":"project-5","title":"Large-format finish","description":"Large-format wall tiling with crisp edges and joints.","category":"Wall & Floor","image":"project-5.jpg"},
-  {"id":"project-6","title":"Precision floor layout","description":"Carefully planned floor layout and professional finishing.","category":"Floor","image":"project-6.jpg"},
-  {"id":"project-7","title":"Clean lines & levels","description":"Detailed bathroom tiling focused on straight lines and level finishes.","category":"Bathroom","image":"project-7.jpg"},
-  {"id":"project-8","title":"Detailing","description":"Precision tile detailing and finishing.","category":"Feature","image":"project-8.jpg"}
+  {
+    "id": "project-1790289543464",
+    "title": "It’s not just tiling… it’s the details that make the difference. ✨🔥🛁",
+    "description": "Tiling",
+    "category": "Bathroom",
+    "image": "uploads/1790289543464-1.jpg",
+    "images": [
+      "uploads/1790289543464-1.jpg",
+      "uploads/1790289543464-2.jpg",
+      "uploads/1790289543464-3.jpg",
+      "uploads/1790289543464-4.jpg",
+      "uploads/1790289543464-5.mp4"
+    ]
+  },
+  {
+    "id": "project-2",
+    "title": "Bathroom installation",
+    "description": "Bathroom tiling with clean lines and a precise finish.",
+    "category": "Bathroom",
+    "image": "project-2.jpg"
+  },
+  {
+    "id": "project-3",
+    "title": "Wall & floor detail",
+    "description": "Marble-effect wall and floor tiling with careful alignment.",
+    "category": "Bathroom",
+    "image": "project-3.jpg"
+  },
+  {
+    "id": "project-4",
+    "title": "Wet room tiling",
+    "description": "Clean wet-room finish with accurate cuts and levels.",
+    "category": "Wet Room",
+    "image": "project-4.jpg"
+  },
+  {
+    "id": "project-5",
+    "title": "Large-format finish",
+    "description": "Large-format wall tiling with crisp edges and joints.",
+    "category": "Wall & Floor",
+    "image": "project-5.jpg"
+  },
+  {
+    "id": "project-6",
+    "title": "Precision floor layout",
+    "description": "Carefully planned floor layout and professional finishing.",
+    "category": "Floor",
+    "image": "project-6.jpg"
+  },
+  {
+    "id": "project-7",
+    "title": "Clean lines & levels",
+    "description": "Detailed bathroom tiling focused on straight lines and level finishes.",
+    "category": "Bathroom",
+    "image": "project-7.jpg"
+  },
+  {
+    "id": "project-8",
+    "title": "Detailing",
+    "description": "Precision tile detailing and finishing.",
+    "category": "Feature",
+    "image": "project-8.jpg"
+  }
 ]
